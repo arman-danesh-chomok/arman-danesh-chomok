@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1500&pause=600&color=1E90FF&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=300&lines=Hello+there;I+am+Arman+Danesh+Chomok;Data+Analytics,+Web+Development,+Cybersecurity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1500&pause=600&color=1E90FF&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=200&lines=Hello+there;I+am+Arman+Danesh+Chomok;" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -11,7 +11,7 @@ I'm a Computer Science & Engineering student 👨‍💻 from <b>Bangladesh</b>.
 I enjoy building websites, analyzing data, exploring cybersecurity, and learning new technologies.</p>
 
 <p align="center">
-  <img src="https://github.com/arman-danesh-chomok/arman-danesh-chomok/blob/main/IMG_6548%20(3).jpg" alt="My Photo" width="300"/>
+  <img src="https://github.com/arman-danesh-chomok/arman-danesh-chomok/blob/main/IMG_6548%20(3).jpg" alt="My Photo" width="180"/>
 </p>
 
 <h3 align="center">💻 Web Development</h3>

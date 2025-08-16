@@ -1,16 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Arman+Danesh+Chomok;Welcome+to+my+README" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1500&pause=600&color=1E90FF&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=300&lines=Hello+there;I+am+Arman+Danesh+Chomok;Data+Analytics,+Web+Development,+Cybersecurity" alt="Typing SVG" />
   </a>
 </h1>
-<br>
+
+
 
 <p><img src="https://github.com/armandanesh/yourrepo/blob/main/images/waving_hand.gif" width="18px">
 I'm a Computer Science & Engineering student 👨‍💻 from <b>Bangladesh</b>.  
 I enjoy building websites, analyzing data, exploring cybersecurity, and learning new technologies.</p>
 
 <p align="center">
-  <img src="https://github.com/armandanesh/yourrepo/blob/main/images/myphoto.png?raw=true" alt="My Photo" width="400"/>
+  <img src="https://github.com/arman-danesh-chomok/arman-danesh-chomok/blob/main/IMG_6548%20(3).jpg" alt="My Photo" width="300"/>
 </p>
 
 <h3 align="center">💻 Web Development</h3>
@@ -85,8 +86,8 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
   <!-- YouTube Section with Animated Red GIF -->
 <h3 align="center">📺 My YouTube Channel</h3>
 <p align="center">
-  <a href="https://www.youtube.com/@yourchannelname" target="_blank">
-    <img src="https://media.giphy.com/media/8FG3F5T5Nw4xFv1WzD/giphy.gif" alt="YouTube Animated" width="200"/>
+  <a href="https://www.youtube.com/@ArmanDaneshChomok" target="_blank">
+    <img src="https://cdn.dribbble.com/userupload/32381727/file/original-27eb63499e8484b191750c0c63570358.gif" alt="YouTube Animated" width="200"/>
   </a>
 </p>
 

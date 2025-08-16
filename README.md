@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-
-
 <p><img src="https://github.com/armandanesh/yourrepo/blob/main/images/waving_hand.gif" width="18px">
 I'm a Computer Science & Engineering student 👨‍💻 from <b>Bangladesh</b>.  
 I enjoy building websites, analyzing data, exploring cybersecurity, and learning new technologies.</p>
@@ -21,6 +19,7 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="ReactJS" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23192F6C.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
@@ -83,14 +82,13 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-  <!-- YouTube Section with Animated Red GIF -->
+
+<!-- YouTube Section with Animated Red GIF -->
 <h3 align="center">📺 My YouTube Channel</h3>
 <p align="center">
   <a href="https://www.youtube.com/@ArmanDaneshChomok" target="_blank">
     <img src="https://cdn.dribbble.com/userupload/32381727/file/original-27eb63499e8484b191750c0c63570358.gif" alt="YouTube Animated" width="200"/>
   </a>
-</p>
-
 </p>
 
 <!-- Contact Info -->
@@ -114,3 +112,10 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
   </a>
 </p>
 
+<!-- Project Demo Video -->
+<h3 align="center">🎥 Project Demo</h3>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=nP08O4ss8gk" target="_blank">
+    <img src="https://i.ytimg.com/vi/nP08O4ss8gk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAksbPj6jX0yzqlEeJ6wsS8CyOnAQ" alt="Project Demo Video" width="500"/>
+  </a>
+</p>

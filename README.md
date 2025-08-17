@@ -127,11 +127,7 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-<p align="center">
-  <a href="https://leetcode.com/u/ykYrltisex/" target="https://leetcode.com/u/ykYrltisex/">
-    <img src="https://leetcard.jacoblin.cool/USERNAME?theme=light&hide=ranking" alt="LeetCode Stats Card" />
-  </a>
-</p>
+
 
 <!-- Certifications Section -->
 <h3 align="center">📜 Certifications</h3>

@@ -128,7 +128,7 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
   </a>
 </p>
 <p align="center">
-  <a href="https://leetcode.com/u/ykYrltisex/" target="_blank">
+  <a href="https://leetcode.com/u/ykYrltisex/" target="https://leetcode.com/u/ykYrltisex/">
     <img src="https://leetcard.jacoblin.cool/USERNAME?theme=light&hide=ranking" alt="LeetCode Stats Card" />
   </a>
 </p>

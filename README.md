@@ -119,3 +119,30 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
     <img src="https://i.ytimg.com/vi/nP08O4ss8gk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAksbPj6jX0yzqlEeJ6wsS8CyOnAQ" alt="Project Demo Video" width="500"/>
   </a>
 </p>
+
+<!-- LeetCode Section -->
+<h3 align="center">🧠 LeetCode Practice</h3>
+<p align="center">
+  <a href="https://leetcode.com/USERNAME/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/USERNAME/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/USERNAME?theme=light&hide=ranking" alt="LeetCode Stats Card" />
+  </a>
+</p>
+
+<!-- Certifications Section -->
+<h3 align="center">📜 Certifications</h3>
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/XXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-Certificate-%230056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.udemy.com/certificate/XXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-Certificate-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  </a>
+  <a href="https://www.edx.org/certificate/XXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/edX-Certificate-%230066A1?style=for-the-badge&logo=edx&logoColor=white" />
+  </a>
+</p>

@@ -123,7 +123,7 @@ I enjoy building websites, analyzing data, exploring cybersecurity, and learning
 <!-- LeetCode Section -->
 <h3 align="center">🧠 LeetCode Practice</h3>
 <p align="center">
-  <a href="https://leetcode.com/USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/ykYrltisex/" target="https://leetcode.com/u/ykYrltisex/">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
